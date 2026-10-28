@@ -34,3 +34,5 @@ except (KeyError, TypeError, ValueError):
 
 total = quantity * price
 print(f"${total:,.4f}")
+
+# Assignment #2 Solutions
